@@ -1,4 +1,3 @@
-![logo]https://drive.google.com/file/d/1r254TQM8gZ6NekpRhe323Yu0OttFjEhA/view?usp=sharing
 <h1 align="center">Hi 👋, I'm Arnab Mandal</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
